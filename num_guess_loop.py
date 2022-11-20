@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Copyright (c) 2022 Ioana Marinescu All rights reserved.
 # Created By: Ioana Marinescu
-#
+
 # Date: Nov. 19, 2022
 # guess the random number
 
